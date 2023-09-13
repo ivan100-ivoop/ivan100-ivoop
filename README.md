@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, C++**
 
-- 📫 How to reach me **ivankyosev21@gmail.com**
+- 📫 How to reach me **admin@smphost.cf**
 
 - ⚡ Fun fact **I like memes**
 
