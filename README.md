@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm ivan100-ivoop maybe you know me as vanko</h1>
-<h3 align="center">I'm developer from Bulgaria</h3>
 
 - 🔭 I’m currently working on [Max 1 Cloud](https://max1.cloud)
 
-- 🌱 I’m currently learning **Python, C++**
+- 🌱 I’m currently learning **Python**
 
 - ⚡ Fun fact **I like memes**
 
