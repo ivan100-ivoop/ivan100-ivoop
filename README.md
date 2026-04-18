@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ivan — maybe you know me as vanko</h1>
+<h1 align="center">Hi 👋, I'm Ivan - maybe you know me as vanko</h1>
 
 - 🔭 I'm currently working on [Max 1 Cloud](https://max1.cloud)
 - 🌱 I'm currently learning **Python**
