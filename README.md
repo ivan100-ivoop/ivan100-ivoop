@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ivan - maybe you know me as vanko</h1>
 
-- 🔭 I'm currently working on [Max 1 Cloud](https://max1.cloud)
+- 🔭 I'm currently working on [Max1.Cloud](https://max1.cloud) | [Max1BG](https://max1.bg)
 - 🌱 I'm currently learning **Python**
 - ⚡ Fun fact **I like memes**
 
